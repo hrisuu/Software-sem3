@@ -1,0 +1,42 @@
+Two types of method:
+static and not static.
+Different Methods
+-Method without parameters, with non return type.
+    public void add(){
+
+    }
+-method with parameters, with non return types
+    public void add(int a, int b){
+
+    }
+
+-method with parameters, with return types
+    public int add(){
+
+    }
+
+-method withour parameters, with return types
+
+(calling methods)
+Instance method / Non Static Method
+Static method ->declared with static modifiers
+
+
+void keyword: value return nagarne lai
+
+Method parameters: 
+-formal arguments: method defination
+-actual arguments: method calling
+
+overloading: method ko name same hunu paryo.
+, same name of method is used for other
+
+
+Constructor
+-used to create Object 
+-used to initialize the instance variable
+
+
+Types of Variable:
+-local Variable
+-Class 
