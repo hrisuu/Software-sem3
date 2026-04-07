@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class array {
+    public static void main (String[] args){
+        int rollno[];
+        rollno = new int[10];
+        rollno[0]=23;
+    }
+    
+    
+}

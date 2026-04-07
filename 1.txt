@@ -1,0 +1,22 @@
+/* Programming Question: Grade Calculator (Using if-else if)
+
+Objective:
+To develop a Java program that uses if-else if statements to determine the grade of a student based on the marks percentage entered by the user.
+Marks Range	Grade
+90 – 100	A
+75 – 89	        B
+60 – 74	        C
+50 – 59	        D
+Below 50	Fail */
+
+import java.util.Scanner;
+public class Result{
+     public static void main(String[] args){
+          float marks;
+          System.out.println("Enter the marks percentage: ");
+          Scanner sc=new Scanner(System.in)
+          marks=sc.nextFloat();
+     
+     }
+
+}
