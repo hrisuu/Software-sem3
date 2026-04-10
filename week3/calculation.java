@@ -1,4 +1,4 @@
-package week3;
+// package week3;
 // a program with a method to find the smallest number from two numbers.
 public class  calculation{
     public static void main(String[] args){

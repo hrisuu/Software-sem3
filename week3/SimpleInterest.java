@@ -1,4 +1,4 @@
-package week3;
+// package week3;
 //Write a parametrized method to return the simple interest, Write this method inside the simpleInterest class, call that method the main 
 //method from the main method of another class Bank.
 
