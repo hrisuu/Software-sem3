@@ -1,7 +1,7 @@
 public class BankERP {
     public static void main(String[] args) {
-        customer c1 = new customer("SBI001", "Hrishika Thapa", 23000);
-        customer c2 = new customer("SBI001", "Roman Karki", 24000);
+        Book c1 = new Book("SBI001", "Hrishika Thapa", 23000);
+        Book c2 = new Book("SBI001", "Roman Karki", 24000);
 
         // method call
         c1.deposit(5000);
