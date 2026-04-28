@@ -3,6 +3,8 @@ public class Book {
     private String bookName;
     private String author;
     private boolean isIssue;
+    public String name;
+    public String balance;
 
     // defining constructor- create obj, initialize the instance variable.
     public Book(String bookId, String bookName, String author) {
@@ -43,6 +45,26 @@ public class Book {
         System.out.println("Book Name= "+bookName);
         System.out.println("Book Author= "+author);
         System.out.println("Book Issue= "+isIssue);
+    }
+
+    public void deposit(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'deposit'");
+    }
+
+    public void withdraw(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'withdraw'");
+    }
+
+    public void customerInfo() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'customerInfo'");
+    }
+
+    public boolean transactionsFee(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'transactionsFee'");
     }
 
 
